@@ -1,0 +1,20 @@
+#h {
+    font-size: 100px;
+    position: absolute;
+    top: -30px;
+    left: 310px;
+    font-family: fantasy;
+    word-spacing: 50px;
+    letter-spacing: 10px;
+
+}
+
+#logoInicio {
+    height: 150px;
+}
+
+#h2 {
+    font-family: fantasy;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
