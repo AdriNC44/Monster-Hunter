@@ -1,7 +1,15 @@
+body{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(232, 218, 189);
+}
+
 #h {
     font-size: 100px;
+
     position: absolute;
-    top: -30px;
+    top: -20px;
     left: 310px;
     font-family: fantasy;
     word-spacing: 50px;
@@ -13,8 +21,40 @@
     height: 150px;
 }
 
-#h2 {
+h2 {
+    color: goldenrod;
+    font-size: 35px;
     font-family: fantasy;
     word-spacing: 10px;
     letter-spacing: 5px;
+}
+
+#menu {
+    li {
+        a {
+            font-weight: bold;
+            color: darkgoldenrod;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        padding: 5px;
+        display: inline;
+
+    }
+}
+.gal{
+    height: 275px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+section{
+    background-color: rgb(173, 141, 80);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 2.5px;
+}
+#text{
+    font-size: 21px;
 }
