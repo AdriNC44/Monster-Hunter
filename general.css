@@ -22,7 +22,7 @@ body {
 }
 
 h2 {
-    color: goldenrod;
+    color: #e5bd68;
     font-size: 35px;
     font-family: fantasy;
     word-spacing: 10px;
@@ -30,7 +30,7 @@ h2 {
 }
 
 h3 {
-    
+    color: #d8c99e;
     font-family: fantasy;
     word-spacing: 10px;
     letter-spacing: 5px;
@@ -61,7 +61,7 @@ h3 {
 }
 
 section {
-    background-color: rgb(168, 150, 117);
+    background-color: #414b3f;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 15px;
@@ -70,4 +70,8 @@ section {
 
 .text {
     font-size: 21px;
+}
+
+section p {
+    color: #f1ecdf;
 }
