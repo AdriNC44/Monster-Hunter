@@ -1,4 +1,4 @@
-body{
+body {
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
@@ -29,13 +29,23 @@ h2 {
     letter-spacing: 5px;
 }
 
+h3 {
+    
+    font-family: fantasy;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    font-size: 25px;
+}
+
 #menu {
     li {
         a {
+
             font-weight: bold;
             color: darkgoldenrod;
             text-decoration: none;
             font-size: 25px;
+
         }
 
         padding: 5px;
@@ -43,18 +53,21 @@ h2 {
 
     }
 }
-.gal{
+
+.gal {
     height: 275px;
     padding-right: 15px;
     padding-bottom: 15px;
 }
-section{
-    background-color: rgb(173, 141, 80);
+
+section {
+    background-color: rgb(168, 150, 117);
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 15px;
     padding-top: 2.5px;
 }
-#text{
+
+.text {
     font-size: 21px;
 }
