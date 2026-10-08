@@ -40,6 +40,11 @@ h3 {
     align-items: center;
     gap: 20px;
 }
+.comida-titulo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
 
 .personaje-titulo img {
     width: 180px;
